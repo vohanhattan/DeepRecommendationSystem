@@ -1,3 +1,3 @@
 # Movie Recommendation System
 
-![header-image](Images/headers.png)
+![header-image](Images/header.png)
